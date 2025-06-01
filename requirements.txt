@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+stripe
+bcrypt
+python-dotenv
+PyJWT
